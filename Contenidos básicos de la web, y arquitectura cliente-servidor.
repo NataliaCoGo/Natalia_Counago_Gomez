@@ -1,0 +1,57 @@
+CONCEPTOS BÁSICOS DE LA WEB Y ARQUITECTURA CLIENTE - SERVIDOR.
+
+Lenguajes de programación FrontEnd: JavaScript, HTML y CSS.
+
+-> ¿Qué es un portofolio personal? <-
+Se trata de una colección digital de información sobre el trabajo, experiencia, calificaciones, etc, propias.
+  - Da legitimidad al trabajo realizado.
+  - Aporta comprensión de las habilidades adquiridas.
+
+-> ¿Cómo se construye un portofolio? <-
+Se ha de comenzar por la PLANIFICACIÓN: qué proyectos y habilidades deseamos destacar de todo lo que hemos realizado.
+  Elige también dónde construir el propio portofolio: plataformas como GitHub Pages, Wordpress y Wix suelen ser opciones
+de partida, además de ser gratuitas aún con opciones de pago no obligatorias. GitHub suele estar más centrado en proyectos
+de código (por eso he elegido subir los contenidos a esta plataforma y no a otra, al menos por el momento).
+  Se ha de focalizar bajo un diseño limpio y profesional. Utiliza, por el momento y como punto de partida, una plantilla
+que ayude con la visualización del diseño de la página que estés creando.
+  Cada proyecto ha de incluir una descripción detallada de lo aprendido, junto con imágenes y enlaces que la presenten de
+manera estética  y atractiva.
+  Publica y actualiza el trabajo realizado a diario, ya que el mantenimiento y la buena presentación continua de un proyecto
+siempre destacará ante las personas interesadas en él.
+
+-> ¿Cómo hacerlo? <-
+  1º: PLANIFICACIÓN: ¿qué tipo de contenido se desea incluir en el portfolio?
+Esto incluye:
+  - Proyectos personales: individuales.
+  - Proyectos grupales: elaborados en colaboración con otros estudiantes.
+  - Ejercicios en clase: código o proyectos específicos.
+  - Certificaciones: Cualquiera que pueda considerarse relevante a incluir.
+  - Reflexiones personales: Textos a cerca del desarrollo de aptitudes y aprendizaje.
+-RECOMENDADO- Una vez finalizado, y como evidencia del aprendizaje en cada proyecto, sube tu propio avance a tu portofolio.
+
+  2º: SELECCIONA LA PLATAFORMA:
+  - GitHub Pages: Ideal para portfolios de desarrollo.
+  - WordPress: Plataforma flexible que aporta muchas plantillas y recursos, destinado a proyectos centrados en una combinación
+de blog y portfolio.
+  - Wix o SquareSpace: Plataformas de construcción de un sitio web.
+
+  3º: DISEÑO DEL PORTFOLIO:
+Mantener siempre un diseño limpio y profesional para poder destacar el trabajo realizado.
+- Usa una plantilla profesional.
+- Personaliza su estilo para reflejar el tuyo propio.
+- Navegación sencilla: Asegúrate de que sea sencilla de navegar, con secciones bien definidas.
+
+  4º: CREACIÓN DE CONTENIDO:
+Para cada proyecto y pieza de trabajo, asegúrate de:
+- Describir el proyecto: qué es, qué tecnologías fueron utilizadas, y su propósito como proyecto.
+- Proceso y aprendizaje: Reflexiona sobre lo aprendido.
+- Incluye imágenes para aumentar su atractivo visual y conceptual.
+- Enlace al proyecto: Tanto al proyecto en vivo como al propio repositorio.
+
+  5º: FEEDBACK Y MEJORA:
+Utiliza la retroalimentación como herramienta para implementar mejoras y cambios a tu proyecto.
+
+  6º: PUBLICACIÓN Y ACTUALIZACIÓN: Una vez revisado, publica tu portfolio.
+- Revisa todo antes de la publicación: enlaces, ortografía, funcionalidad, etc.
+- Comprueba el SEO (Search Engine Optimization) y sus aspectos básicos, para mejorar su visibilidad.
+- Actualiza regularmente.
