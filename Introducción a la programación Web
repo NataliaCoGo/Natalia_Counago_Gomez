@@ -1,0 +1,24 @@
+--- INTRODUCCIÓN A LA PROGRAMACIÓN WEB ---
+Frontend vs Backend.
+- FrontEnd: Parte visual del desarrollo, lo que visualizan los usuarios.
+- BackEnd: Lógica, servidor, la aplicación y la base de datos de una página. Sus aspectos internos.
+Ambas se interrelacionan entre sí mediante la API (Application Programming Interface), con solicitudes de la parte FrontEnd recibidas 
+y datos de la parte BackEnd enviadas.
+
+-> CONCEPTOS BÁSICOS.
+
+  Las redes permiten que los ordenadores se comuniquen entre sí, enviando y recibiendo datos entre ellos. Permite la realización
+del trabajo remoto, el uso de las redes sociales, etc.
+  - WORLD WIDE WEB o WWW: Es un sistema de recursos y documentos web interconectados por hipervínculos, y accesibles mediante Internet.
+    Fue creada en 1989 gracias a Tim Berners-Lee, creando así un espacio de información global para permitir el compartir conocimientos
+y comunicaciones independientemente de la distancia geográfica que los separa.
+    Su propuesta inicial incluía la creación de un sistema de hipertexto que hiciese uso de Internet como medio de transmisión.
+
+-> ARQUITECTURA CLIENTE-SERVIDOR.
+
+  Es un marco del diseño de software en el cual se reparten las tareas entre los proveedores de recursos, o SERVIDORES, y sus solicitantes,
+o CLIENTES. 
+  Los clientes realizan las solicitudes a los servidores, los cuales procesan yy devuelven una respuesta adecuada.
+  Esta arquitectura permite la comunicación y transmisión de datos en sistemas geográficamente distanciados.
+
+  - FUNCIONAMIENTO Y COMPONENTES -
